@@ -1,0 +1,15 @@
+.vscode/
+build/
+*.bin
+*.elf
+*.hex
+*.log
+*.pyc
+__pycache__/
+.env
+.DS_Store
+*.zip
+*.tar.gz
+*.pdf
+*.pptx
+
