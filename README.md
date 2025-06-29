@@ -1,1 +1,1 @@
-# Sistema de Control de Microalgas
+# Sistema de control de Microalgas para tratamiento de efluentes lacteos
